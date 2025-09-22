@@ -1,10 +1,9 @@
-🏨 Hotel Management Website | HTML, CSS, and JavaScript 🌐
+# 🏨 Hotel Management Website | HTML, CSS, and JavaScript 🌐
 
-Project created: November 2022
 
 Welcome to the Hotel Management Website project! This is a simple yet functional website developed using HTML, CSS, and JavaScript. It is designed to simplify online ordering, reservations, and management for restaurants and hotels. 🏨🍴
 
-✨ Features
+✨ **Features**
 
 Responsive Design 📱💻: Fully responsive layout that adapts to various screen sizes (desktop, tablet, mobile).
 
@@ -16,13 +15,13 @@ Contact Form 📬: A form for customers to make reservations or submit inquiries
 
 High-Quality Visuals 📸: Curated visuals of the restaurant’s ambiance and dishes to enhance the customer experience.
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 Frontend: HTML, CSS, JavaScript
 
 Additional Libraries: Google Maps API
 
-📝 How to Use
+📝 **How to Use**
 
 Browse the Menu 🍔: Navigate through the menu to explore available dishes.
 
@@ -32,11 +31,11 @@ Make Reservations 📅: Use the contact form to submit reservations or inquiries
 
 Find Us 📍: Use the integrated Google Maps to find the restaurant's/hotel's location.
 
-🤝 Contributing
+🤝 **Contributing**
 
 Feel free to fork this project and submit pull requests with improvements or bug fixes. If you have suggestions or encounter issues, please open an issue in the repository.
 
-🎉 Acknowledgements
+🎉 **Acknowledgements**
 
 Google Maps API for the location feature.
 
